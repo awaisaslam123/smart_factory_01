@@ -1,0 +1,10 @@
+{
+  "date": "Friday, 19 June 2026",
+  "overall_risk_score": 5.7,
+  "total_alerts": 0,
+  "maintenance_summary": "**Fleet Status: ✅ STABLE**\n\nAs of 2026-06-19 14:44, the plant is monitoring **10 machines** with an average health score of **88.6/100**.\nThe most at-risk unit is **M-007** (failure probability: 18.4%, RUL: 58h). Recommend prioritizing preventive maintenance to avoid unplanned downtime.",
+  "supply_chain_summary": "No supply chain data available.",
+  "executive_headline": "🟢 OPERATIONS NORMAL — 0 minor alerts. System performing within expected parameters.",
+  "generated_at": "2026-06-19T14:44:12.111289",
+  "model_used": "google/flan-t5-base"
+}
